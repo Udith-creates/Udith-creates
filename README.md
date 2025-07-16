@@ -2,7 +2,7 @@
 <h3 align="center">Jack of all trades, master of none — but always curious, always building. From IoT to AI, I explore, experiment, and evolve.</h3>
 <h3 align="center">🐍 My GitHub Contribution Snake</h3>
 <p align="center">
-  <img src="https://udith-creates.github.io/udith-creates/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://Udith-creates.github.io/Udith-creates/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 
