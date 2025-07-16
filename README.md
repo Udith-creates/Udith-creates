@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm UDITH S NAIR</h1>
 <h3 align="center">Jack of all trades, master of none — but always curious, always building. From IoT to AI, I explore, experiment, and evolve.</h3>
-<h3 align="center">🐍 My GitHub Contribution Snake</h3>
-<p align="center">
-  <img src="https://Udith-creates.github.io/Udith-creates/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+![Snake animation](https://Udith-creates.github.io/Udith-creates/github-contribution-grid-snake.svg)
+
 
 
 
