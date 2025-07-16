@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter,Ml**
 
-- 👨‍💻 All of my projects are available at [https://github.com/udith-creates](https://github.com/udith-creates)
+- 👨‍💻 All of my projects are available at [https://github.com/Udith-creates](https://github.com/udith-creates)
 
 - 📫 How to reach me **https://www.linkedin.com/in/udithsnair/**
 
