@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm UDITH S NAIR</h1>
 <h3 align="center">Jack of all trades, master of none — but always curious, always building. From IoT to AI, I explore, experiment, and evolve.</h3>
-(https://github.com/Udith-creates/Udith-creates/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Udith-creates/Udith-creates/blob/output/github-contribution-grid-snake.svg
 
 - 🌱 I’m currently learning **Flutter,Ml**
 
