@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter,Ml**
+- 🌱 I’m currently learning **Ml,Cloud,RTOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Udith-creates](https://github.com/udith-creates)
 
