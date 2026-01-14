@@ -11,8 +11,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Udith-creates](https://github.com/udith-creates)
 
 - 📫 How to reach me **https://www.linkedin.com/in/udithsnair/**
-- [![An image of @udithcreates's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udithcreates)](https://holopin.io/@udithcreates)
-- 
+  [![An image of @udithcreates's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udithcreates)](https://holopin.io/@udithcreates)
+  
 
 
 <h3 align="left">Connect with me:</h3>
